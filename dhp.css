@@ -1,0 +1,36 @@
+Body {
+	background-color:#E3EDCD;
+}
+
+h1 {
+	color: #000000;
+	text-align: center;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+table th {
+	width: 300px;
+	color: #000000;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	padding: 10px 10px 10px;
+	border-top: 1px solid #000000;
+	border-bottom: 2px solid #000000;
+}
+
+th:hover {
+	background-color:#99CCFF;
+}
+
+p {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h2 {
+	color: #000000;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+table td {
+	width: 1200px;
+	text-align: center;
+}
